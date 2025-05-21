@@ -7,7 +7,7 @@ API_PATH = '/api/v1/auth/login'
 
 # 使用刚刚创建的测试账号
 login_data = {
-    "account": "testuser4092",  # 刚刚注册成功的用户名
+    "account": "testuser7371",  # 刚刚注册成功的用户名
     "password": "Test12345"
 }
 
